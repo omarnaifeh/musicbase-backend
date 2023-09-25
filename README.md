@@ -21,12 +21,6 @@ The frontend of this application provides a user interface for searching for art
 3. Click the "Search" button to initiate the search.
 4. View the search results in the browser console (for debugging purposes).
 
-### Enhancements
-
-- The frontend can be further improved with better styling, user feedback, and error handling.
-- Consider displaying search results on the web page itself.
-- Ensure accessibility and responsive design.
-
 ## Backend
 
 ### Description
